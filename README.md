@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Benjamin Addison</h1>
-<h3 align="center">A passionate developer and cyber scecurity researcher from South Africa</h3>
-
-- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **addisonben915@gmail.com**
 
