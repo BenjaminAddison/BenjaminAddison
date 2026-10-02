@@ -1,11 +1,48 @@
 <h1 align="center">Hi 👋, I'm Benjamin Addison</h1>
+<h3 align="center">Student at Stellenbosch University · building things across software, hardware and Linux</h3>
 
-- 📫 How to reach me **addisonben915@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:addisonben915@gmail.com"><img src="https://img.shields.io/badge/Email-addisonben915%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- Uncomment and fill in any you want to show:
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://YOUR-SITE"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
+### 🧑‍💻 About me
+
+- 🎓 Studying at **Stellenbosch University** (Computer Science, Physics, Mathematics)
+- 📡 Building **ESP32 LoRa mesh data-logging stations** with a handheld collector
+- 🖥️ Running a **Docker-based homelab** on Ubuntu, self-hosting my own projects
+- 🔐 Interested in **cybersecurity** and bug bounty hunting
+- 🌱 Exploring where software engineering, security and embedded systems meet
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,mysql,electron,tensorflow,selenium,arduino,raspberrypi,blender,unreal&perline=13" alt="Languages and tools"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **LoRa Data Logging Stations** | Low-power ESP32 sensor stations networked over LoRa, with a handheld unit for collecting data in the field | C++, ESP32, LoRa |
+| **Cipherlock Toolbox** | A static helper site for fellow students, self-hosted on my homelab | HTML, CSS, JS, Docker |
+| **Homelab** | Ubuntu server running containerised services | Linux, Docker, Bash |
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
