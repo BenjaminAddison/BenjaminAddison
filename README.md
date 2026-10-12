@@ -24,7 +24,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,mysql,electron,tensorflow,selenium,arduino,raspberrypi,blender,unreal&perline=13" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,mysql,electron,tensorflow,selenium,arduino,raspberrypi&perline=13" alt="Languages and tools"/>
 </p>
 
 ---
