@@ -34,7 +34,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | **LoRa Data Logging Stations** | Low-power ESP32 sensor stations networked over LoRa, with a handheld unit for collecting data in the field | C++, ESP32, LoRa |
-| **Cipherlock Toolbox** | A static helper site for fellow students, self-hosted on my homelab | HTML, CSS, JS, Docker |
 | **Homelab** | Ubuntu server running containerised services | Linux, Docker, Bash |
 
 
